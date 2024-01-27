@@ -1,8 +1,12 @@
-// import BG from "./Components/BG";
+import Pass from "./Components/Pass";
 
 // import { useState } from "react";
 function App() {
-  // return <BG />;
+  return (
+    <>
+      <Pass />
+    </>
+  );
 }
 
 export default App;
